@@ -254,7 +254,7 @@ function getHomea($client,$event){
                             'type' => 'spacer',
                             'size' => 'xxl',
                           ),
-                          1 => 
+                          0 => 
                           array (
                             'type' => 'button',
                             'action' => 
@@ -2010,7 +2010,7 @@ function getHomec($client,$event){
                               'type' => 'spacer',
                               'size' => 'xxl',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -2282,7 +2282,7 @@ function getHomed($client,$event){
                           'type' => 'spacer',
                           'size' => 'xxl',
                         ),
-                        1 => 
+                        0 => 
                         array (
                           'type' => 'button',
                           'action' => 

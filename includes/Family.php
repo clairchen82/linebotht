@@ -385,7 +385,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                          01 => 
+                          0 => 
                             array (
                               'type' => 'button',
                               'action' => 

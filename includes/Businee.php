@@ -107,7 +107,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 
@@ -910,7 +910,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 

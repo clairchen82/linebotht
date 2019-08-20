@@ -118,6 +118,17 @@ function getBusinessa($client,$event){
                                 ),
                                 'margin' => 'none',
                                 'height' => 'sm',
+                                ),
+                                 1 => 
+                                array (
+                                  'type' => 'button',
+                                  'action' => 
+                               array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/3awxurV',
+                                     ),
+                                  'color' => '#707070',
                               ),
                             ),
                           ),
@@ -909,7 +920,18 @@ function getBusinessa($client,$event){
                                   'uri' => 'https://9000.com.tw/product/un-9505ag/',
                                 ),
                                 'margin' => 'none',
-                                'height' => 'sm',
+                              'height' => 'sm',
+                              ),
+                               1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                             array (
+                                'type' => 'uri',
+                                'label' => '實例',
+                                'uri' => 'https://imgur.com/a/3awxurV',
+                                   ),
+                                'color' => '#707070',
                               ),
                             ),
                           ),

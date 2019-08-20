@@ -265,6 +265,17 @@ function getHomea($client,$event){
                             ),
                             'margin' => 'none',
                             'height' => 'sm',
+                            ),
+                             1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                           array (
+                              'type' => 'uri',
+                              'label' => '實例',
+                              'uri' => 'https://imgur.com/a/0MvBwZo',
+                                 ),
+                              'color' => '#707070',
                           ),
                         ),
                       ),
@@ -1639,7 +1650,7 @@ function getHomec($client,$event){
                              array (
                                 'type' => 'uri',
                                 'label' => '實例',
-                                'uri' => 'https://imgur.com/a/0cS5bqY',
+                                'uri' => 'https://imgur.com/a/b60aCSs',
                                    ),
                                 'color' => '#707070',
                             ),
@@ -2010,6 +2021,17 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
+                              ),
+                               1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                             array (
+                                'type' => 'uri',
+                                'label' => '實例',
+                                'uri' => 'https://imgur.com/a/RegzBbE',
+                                   ),
+                                'color' => '#707070',
                             ),
                           ),
                         ),
@@ -2271,6 +2293,17 @@ function getHomed($client,$event){
                           ),
                           'margin' => 'none',
                           'height' => 'sm',
+                          ),
+                           1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                         array (
+                            'type' => 'uri',
+                            'label' => '實例',
+                            'uri' => 'https://imgur.com/a/pigiuld',
+                               ),
+                            'color' => '#707070',
                         ),
                       ),
                     ),

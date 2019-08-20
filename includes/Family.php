@@ -408,8 +408,6 @@ function getHomeb($client,$event){
                               ),
                               'color' => '#707070',
 
-
-
                             ),
                           ),
                         ),
@@ -596,7 +594,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -605,6 +603,19 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/ur-672bw-1/',
                               ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '實例',
+                                'uri' => 'https://imgur.com/a/sdeiqCS',
+                              ),
+                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -774,7 +785,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -783,6 +794,20 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/ur-6602aw-1/',
                               ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '實例',
+                                'uri' => 'https://imgur.com/a/5VSZ5Pc',
+                              ),
+                              'color' => '#707070',
+
                             ),
                           ),
                         ),

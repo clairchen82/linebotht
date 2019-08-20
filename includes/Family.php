@@ -254,7 +254,7 @@ function getHomea($client,$event){
                             'type' => 'spacer',
                             'size' => 'xxl',
                           ),
-                          1 => 
+                          0 => 
                           array (
                             'type' => 'button',
                             'action' => 
@@ -266,11 +266,22 @@ function getHomea($client,$event){
                             'margin' => 'none',
                             'height' => 'sm',
                           ),
+                          1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'uri',
+                              'label' => '實例',
+                              'uri' => 'https://imgur.com/a/3awxurV',
+                            ),
+                            'color' => '#707070',
+                          ),
                         ),
                       ),
                     ),
                   ),
-                ),
+                  
               ),
               'styles' => 
               array (
@@ -590,7 +601,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -599,11 +610,22 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/ur-672bw-1/',
                               ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/sdeiqCS',
+                                ),
+                                'color' => '#707070',
+                              ),
                             ),
                           ),
                         ),
                       ),
-                    ),
+                          
                     7 => 
                     array (
                       'type' => 'separator',
@@ -914,7 +936,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -923,12 +945,22 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/uw-672aw-1/',
                               ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/sdeiqCS',
+                                ),
+                                'color' => '#707070',
+                              ),
                             ),
                           ),
                         ),
                       ),
-                    ),
-
+                
                     5 => 
                     array (
                       'type' => 'separator',

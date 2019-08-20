@@ -1,0 +1,89 @@
+[12-May-2019 20:18:43 Asia/Taipei] Request failed: 
+[12-May-2019 20:18:43 Asia/Taipei] Request failed: 
+[12-May-2019 21:30:21 Asia/Taipei] Request failed: 
+[12-May-2019 21:32:20 Asia/Taipei] Request failed: 
+[12-May-2019 21:34:39 Asia/Taipei] Request failed: 
+[13-May-2019 10:56:03 Asia/Taipei] Request failed: 
+[13-May-2019 10:56:03 Asia/Taipei] Request failed: 
+[14-May-2019 10:49:14 Asia/Taipei] Request failed: 
+[14-May-2019 17:21:00 Asia/Taipei] Request failed: 
+[14-May-2019 17:21:00 Asia/Taipei] Request failed: 
+[15-May-2019 14:48:57 Asia/Taipei] Request failed: 
+[15-May-2019 14:49:09 Asia/Taipei] Request failed: 
+[15-May-2019 14:51:12 Asia/Taipei] Request failed: 
+[15-May-2019 14:52:22 Asia/Taipei] Request failed: 
+[15-May-2019 14:52:50 Asia/Taipei] Request failed: 
+[15-May-2019 14:53:08 Asia/Taipei] Request failed: 
+[15-May-2019 15:12:09 Asia/Taipei] Request failed: 
+[15-May-2019 15:18:52 Asia/Taipei] Request failed: 
+[15-May-2019 15:20:36 Asia/Taipei] Request failed: 
+[15-May-2019 15:36:42 Asia/Taipei] Request failed: 
+[15-May-2019 16:04:57 Asia/Taipei] Request failed: 
+[16-May-2019 10:38:25 Asia/Taipei] Request failed: 
+[16-May-2019 10:41:36 Asia/Taipei] Request failed: 
+[16-May-2019 10:41:42 Asia/Taipei] Request failed: 
+[16-May-2019 11:02:30 Asia/Taipei] Request failed: 
+[16-May-2019 14:10:51 Asia/Taipei] Request failed: 
+[16-May-2019 14:11:07 Asia/Taipei] Request failed: 
+[16-May-2019 14:18:43 Asia/Taipei] Request failed: 
+[20-May-2019 10:47:41 Asia/Taipei] Request failed: 
+[20-May-2019 10:47:54 Asia/Taipei] Request failed: 
+[22-May-2019 06:04:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 16
+[22-May-2019 06:04:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 16
+[22-May-2019 06:04:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 16
+[22-May-2019 06:04:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 16
+[22-May-2019 06:04:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 16
+[22-May-2019 15:31:26 Asia/Taipei] Method not allowed
+[23-May-2019 04:06:33 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[23-May-2019 04:06:34 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[23-May-2019 04:06:36 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[23-May-2019 04:06:47 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[23-May-2019 04:06:49 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[23-May-2019 04:06:56 UTC] PHP Parse error:  syntax error, unexpected 'GMT' (T_STRING), expecting ')' in /home2/xeeecopl/public_html/TESTBOT/index.php on line 45
+[24-May-2019 07:06:01 Asia/Taipei] Request failed: 
+[24-May-2019 07:06:09 Asia/Taipei] Request failed: 
+[24-May-2019 09:15:32 Asia/Taipei] Request failed: 
+[24-May-2019 09:15:37 Asia/Taipei] Request failed: 
+[24-May-2019 12:39:31 Asia/Taipei] Request failed: 
+[24-May-2019 12:42:46 Asia/Taipei] Request failed: 
+[24-May-2019 12:43:04 Asia/Taipei] Request failed: 
+[24-May-2019 12:43:25 Asia/Taipei] Request failed: 
+[24-May-2019 12:43:25 Asia/Taipei] Request failed: 
+[24-May-2019 12:44:05 Asia/Taipei] Request failed: 
+[24-May-2019 13:06:09 Asia/Taipei] Request failed: 
+[24-May-2019 15:24:13 Asia/Taipei] Request failed: 
+[24-May-2019 15:25:41 Asia/Taipei] Request failed: 
+[24-May-2019 15:26:09 Asia/Taipei] Request failed: 
+[24-May-2019 15:27:15 Asia/Taipei] Request failed: 
+[24-May-2019 15:27:26 Asia/Taipei] Request failed: 
+[24-May-2019 15:28:16 Asia/Taipei] Request failed: 
+[24-May-2019 15:28:32 Asia/Taipei] Request failed: 
+[24-May-2019 15:28:48 Asia/Taipei] Request failed: 
+[24-May-2019 15:32:06 Asia/Taipei] Request failed: 
+[24-May-2019 15:34:54 Asia/Taipei] Request failed: 
+[24-May-2019 15:34:57 Asia/Taipei] Request failed: 
+[24-May-2019 15:50:15 Asia/Taipei] Request failed: 
+[24-May-2019 15:53:51 Asia/Taipei] Request failed: 
+[24-May-2019 16:04:57 Asia/Taipei] Request failed: 
+[24-May-2019 16:07:27 Asia/Taipei] Request failed: 
+[24-May-2019 16:07:28 Asia/Taipei] Request failed: 
+[24-May-2019 16:07:32 Asia/Taipei] Request failed: 
+[24-May-2019 16:08:32 Asia/Taipei] Request failed: 
+[24-May-2019 16:17:12 Asia/Taipei] Request failed: 
+[24-May-2019 16:24:15 Asia/Taipei] Request failed: 
+[24-May-2019 17:43:49 Asia/Taipei] Request failed: 
+[24-May-2019 21:23:22 Asia/Taipei] Request failed: 
+[24-May-2019 22:45:00 Asia/Taipei] Request failed: 
+[27-May-2019 08:19:30 Asia/Taipei] Request failed: 
+[27-May-2019 08:20:29 Asia/Taipei] Request failed: 
+[27-May-2019 08:20:53 Asia/Taipei] Request failed: 
+[27-May-2019 08:21:03 Asia/Taipei] Request failed: 
+[27-May-2019 08:21:04 Asia/Taipei] Request failed: 
+[27-May-2019 08:21:22 Asia/Taipei] Request failed: 
+[27-May-2019 08:21:25 Asia/Taipei] Request failed: 
+[27-May-2019 08:22:42 Asia/Taipei] Request failed: 
+[27-May-2019 08:35:12 Asia/Taipei] Request failed: 
+[28-May-2019 12:27:43 Asia/Taipei] Request failed: 
+[30-May-2019 11:31:28 Asia/Taipei] Request failed: 
+[08-Jun-2019 01:00:48 Asia/Taipei] Request failed: 
+[10-Jun-2019 11:17:47 Asia/Taipei] Request failed: 

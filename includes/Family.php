@@ -254,7 +254,7 @@ function getHomea($client,$event){
                             'type' => 'spacer',
                             'size' => 'xxl',
                           ),
-                          0 => 
+                          1 => 
                           array (
                             'type' => 'button',
                             'action' => 
@@ -266,22 +266,11 @@ function getHomea($client,$event){
                             'margin' => 'none',
                             'height' => 'sm',
                           ),
-                          1 => 
-                          array (
-                            'type' => 'button',
-                            'action' => 
-                            array (
-                              'type' => 'uri',
-                              'label' => '實例',
-                              'uri' => 'https://imgur.com/a/3awxurV',
-                            ),
-                            'color' => '#707070',
-                          ),
                         ),
                       ),
                     ),
                   ),
-                  
+                ),
               ),
               'styles' => 
               array (
@@ -393,17 +382,8 @@ function getHomeb($client,$event){
                           array (
                             0 => 
                             array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/un-6802aw-1/',
-                              ),
-                              'margin' => 'none',
-                              'height' => 'sm',
-            
-                              
+                              'type' => 'spacer',
+                              'size' => 'lg',
                             ),
                             1 => 
                             array (
@@ -411,10 +391,9 @@ function getHomeb($client,$event){
                               'action' => 
                               array (
                                 'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/xywydgu',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/un-6802aw-1/',
                               ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -601,7 +580,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -610,22 +589,11 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/ur-672bw-1/',
                               ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/sdeiqCS',
-                                ),
-                                'color' => '#707070',
-                              ),
                             ),
                           ),
                         ),
                       ),
-                          
+                    ),
                     7 => 
                     array (
                       'type' => 'separator',
@@ -674,15 +642,8 @@ function getHomeb($client,$event){
                           array (
                             0 => 
                             array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/un-1322ag-1-l/',
-                              ),
-                              'margin' => 'none',
-                              'height' => 'sm',
+                              'type' => 'spacer',
+                              'size' => 'lg',
                             ),
                             1 => 
                             array (
@@ -690,10 +651,9 @@ function getHomeb($client,$event){
                               'action' => 
                               array (
                                 'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/Jjy5DjZ',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/un-1322ag-1-l/',
                               ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -795,15 +755,8 @@ function getHomeb($client,$event){
                           array (
                             0 => 
                             array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/ur-6602aw-1/',
-                              ),
-                              'margin' => 'none',
-                              'height' => 'sm',
+                              'type' => 'spacer',
+                              'size' => 'lg',
                             ),
                             1 => 
                             array (
@@ -811,10 +764,9 @@ function getHomeb($client,$event){
                               'action' => 
                               array (
                                 'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/5VSZ5Pc',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/ur-6602aw-1/',
                               ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -936,7 +888,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -945,22 +897,12 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/uw-672aw-1/',
                               ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/sdeiqCS',
-                                ),
-                                'color' => '#707070',
-                              ),
                             ),
                           ),
                         ),
                       ),
-                
+                    ),
+
                     5 => 
                     array (
                       'type' => 'separator',
@@ -1009,15 +951,8 @@ function getHomeb($client,$event){
                           array (
                             0 => 
                             array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/ur-632aw-1/',
-                              ),
-                              'margin' => 'none',
-                              'height' => 'sm',
+                              'type' => 'spacer',
+                              'size' => 'lg',
                             ),
                             1 => 
                             array (
@@ -1025,10 +960,9 @@ function getHomeb($client,$event){
                               'action' => 
                               array (
                                 'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/0cS5bqY',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/ur-632aw-1/',
                               ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -1082,15 +1016,8 @@ function getHomeb($client,$event){
                           array (
                             0 => 
                             array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/un-1322ag-1-r/',
-                              ),
-                              'margin' => 'none',
-                              'height' => 'sm',
+                              'type' => 'spacer',
+                              'size' => 'lg',
                             ),
                             1 => 
                             array (
@@ -1098,10 +1025,9 @@ function getHomeb($client,$event){
                               'action' => 
                               array (
                                 'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/Jjy5DjZ',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/un-1322ag-1-r/',
                               ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -1599,6 +1525,11 @@ function getHomec($client,$event){
                           array (
                             0 => 
                             array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
                               'type' => 'button',
                               'action' => 
                               array (
@@ -1608,17 +1539,6 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
-                            ),
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/b60aCSs',
-                              ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -1973,6 +1893,11 @@ function getHomec($client,$event){
                           array (
                             0 => 
                             array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
                               'type' => 'button',
                               'action' => 
                               array (
@@ -1982,20 +1907,6 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
-            
-                              
-                            ),
-
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/RegzBbE',
-                              ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -2243,6 +2154,11 @@ function getHomed($client,$event){
                       array (
                         0 => 
                         array (
+                          'type' => 'spacer',
+                          'size' => 'xxl',
+                        ),
+                        1 => 
+                        array (
                           'type' => 'button',
                           'action' => 
                           array (
@@ -2252,17 +2168,6 @@ function getHomed($client,$event){
                           ),
                           'margin' => 'none',
                           'height' => 'sm',
-                         ),
-                        1 => 
-                        array (
-                          'type' => 'button',
-                          'action' => 
-                          array (
-                            'type' => 'uri',
-                            'label' => '實例',
-                            'uri' => 'https://imgur.com/a/pigiuld',
-                          ),
-                          'color' => '#707070',
                         ),
                       ),
                     ),

@@ -494,7 +494,7 @@ function getHomeb($client,$event){
                                 'uri' => 'https://imgur.com/a/HQRU8sI',
                               ),
                               'color' => '#707070',
-                            ),
+                          
 
 
 

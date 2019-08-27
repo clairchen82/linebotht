@@ -475,7 +475,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -484,19 +484,6 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/uw-2502dw-1/',
                               ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/HQRU8sI',
-                                ),
-                                'color' => '#707070',
-                             
-
-
                             ),
                           ),
                         ),
@@ -1475,7 +1462,7 @@ function getHomec($client,$event){
                               'type' => 'spacer',
                               'size' => 'xxl',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -1486,17 +1473,6 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
-                            ),
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/FHwpAxF',
-                              ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -1798,7 +1774,7 @@ function getHomec($client,$event){
                               'type' => 'spacer',
                               'size' => 'xxl',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -1810,18 +1786,6 @@ function getHomec($client,$event){
                               'margin' => 'none',
                               'height' => 'sm',
                             ),
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/YGMS4Qr',
-                              ),
-                              'color' => '#707070',
-                            ),
-
                           ),
                         ),
                       ),
@@ -1876,7 +1840,7 @@ function getHomec($client,$event){
                               'type' => 'spacer',
                               'size' => 'xxl',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -1887,17 +1851,6 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
-                            ),
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/YGMS4Qr',
-                              ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),
@@ -1954,7 +1907,7 @@ function getHomec($client,$event){
                               'type' => 'spacer',
                               'size' => 'xxl',
                             ),
-                            0 => 
+                            1 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -1965,17 +1918,6 @@ function getHomec($client,$event){
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
-                            ),
-                            1 => 
-                            array (
-                              'type' => 'button',
-                              'action' => 
-                              array (
-                                'type' => 'uri',
-                                'label' => '實例',
-                                'uri' => 'https://imgur.com/a/YGMS4Qr',
-                              ),
-                              'color' => '#707070',
                             ),
                           ),
                         ),

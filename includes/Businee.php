@@ -184,7 +184,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 
@@ -196,6 +196,19 @@ function getBusinessa($client,$event){
                                 'margin' => 'none',
                                 'height' => 'sm',
                               ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/03u8ClZ',
+                                ),
+                                'color' => '#707070',
+                              ),
+
+
                             ),
                           ),
                         ),
@@ -415,7 +428,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 
@@ -427,6 +440,19 @@ function getBusinessa($client,$event){
                                 'margin' => 'none',
                                 'height' => 'sm',
                               ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/lUUBRZc',
+                                ),
+                                'color' => '#707070',
+                              ),
+
+
                             ),
                           ),
                         ),
@@ -481,7 +507,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 
@@ -492,6 +518,17 @@ function getBusinessa($client,$event){
                                 ),
                                 'margin' => 'none',
                                 'height' => 'sm',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/03u8ClZ',
+                                ),
+                                'color' => '#707070',
                               ),
                             ),
                           ),
@@ -547,7 +584,7 @@ function getBusinessa($client,$event){
                                 'type' => 'spacer',
                                 'size' => 'xxl',
                               ),
-                              1 => 
+                              0 => 
                               array (
                                 'type' => 'button',
                                 'action' => 
@@ -559,6 +596,18 @@ function getBusinessa($client,$event){
                                 'margin' => 'none',
                                 'height' => 'sm',
                               ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '實例',
+                                  'uri' => 'https://imgur.com/a/lUUBRZc',
+                                ),
+                                'color' => '#707070',
+                              ),
+
                             ),
                           ),
                         ),

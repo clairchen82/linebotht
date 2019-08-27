@@ -475,7 +475,7 @@ function getHomeb($client,$event){
                               'type' => 'spacer',
                               'size' => 'lg',
                             ),
-                            1 => 
+                            0 => 
                             array (
                               'type' => 'button',
                               'action' => 
@@ -484,6 +484,20 @@ function getHomeb($client,$event){
                                 'label' => '詳情',
                                 'uri' => 'https://9000.com.tw/product/uw-2502dw-1/',
                               ),
+                              1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '實例',
+                                'uri' => 'https://imgur.com/a/HQRU8sI',
+                              ),
+                              'color' => '#707070',
+                            ),
+
+
+
                             ),
                           ),
                         ),

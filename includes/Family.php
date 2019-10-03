@@ -1160,8 +1160,186 @@ function getHomeb($client,$event){
                   array (
                     'backgroundColor' => '#585D70',
                   ),
+                ), 
+              ),
+
+
+
+              2 => 
+              array (
+                'type' => 'bubble',
+                'direction' => 'ltr',
+                'header' => 
+                array (
+                  'type' => 'box',
+                  'layout' => 'vertical',
+                  'contents' => 
+                  array (
+                    0 => 
+                    array (
+                      'type' => 'text',
+                      'text' => '家用飲水設備',
+                      'size' => 'md',
+                      'align' => 'center',
+                      'weight' => 'bold',
+                      'color' => '#FFFFFF',
+                    ),
+                  ),
+                ),
+                'body' => 
+                array (
+                  'type' => 'box',
+                  'layout' => 'vertical',
+                  'contents' => 
+                  array (
+                    0 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'horizontal',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'image',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2019/09/UV-6702%E7%99%BD-45%E5%BA%A6%E8%A7%92-600x600.jpg',
+                          'margin' => 'none',
+                          'align' => 'start',
+                          'aspectRatio' => '1:1',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'UV-6702EW-1(天使白)',
+                              'size' => 'xs',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'text',
+                              'text' => '超效瞬淨冷熱飲水機',
+                              'size' => 'sm',
+                              'wrap' => true,
+                            ),
+                          ),
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            0 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/uv-6702ew-1-uv-6702ebk-1/',
+                              ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                              ),
+                         
+                          ),
+                        ),
+                      ),
+                    ),
+                    1 => 
+                    array (
+                      'type' => 'separator',
+                    ),
+                    2 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'horizontal',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'image',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2019/09/UV-6702%E9%BB%91-%E4%BF%AF%E8%A7%92-600x600.jpg',
+                          'margin' => 'none',
+                          'align' => 'start',
+                          'aspectRatio' => '1:1',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'UV-6702EBK-1(粉霧黑)',
+                              'size' => 'xxs',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'text',
+                              'text' => '超效瞬淨冷熱飲水機',
+                              'size' => 'sm',
+                              'wrap' => true,
+                            ),
+                          ),
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/uv-6702ew-1-uv-6702ebk-1/',
+                              ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                    3 => 
+                    array (
+                      'type' => 'separator',
+                    ),
+              
+                    
+                  ),
+                ),
+                'styles' => 
+                array (
+                  'header' => 
+                  array (
+                    'backgroundColor' => '#585D70',
+                  ),
                 ),
               ),
+
+
+
             ),
           ),
         )

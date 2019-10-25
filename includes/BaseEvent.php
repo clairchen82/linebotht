@@ -12,12 +12,10 @@ use TESTBOT\assets\InvalidEventSourceException;
 switch ($message['text']){
 
     case 'A':
-    echo getUserId(['source']['userId'])
-
+    echo getUserId(['source']['userId']);
     default:
     #code
     break;
-
 }
 
 

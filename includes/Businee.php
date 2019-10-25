@@ -10,6 +10,9 @@ switch ($message['text']){
           break;
     case '您選擇「桶裝水飲水機」':
           echo getBusinessc($client,$event['replyToken']);
+          break;
+    case '您選擇「商用淨水器」':
+          echo getBusinessd($client,$event['replyToken']);
 
 
 
@@ -1904,15 +1907,126 @@ function getBusinessc($client,$event){
         )
 
 
-
-
-
       )
   ));
 
 }
 
 
+function getBusinessd($client,$event){
+  $client->replyMessage(array(
+      'replyToken' => $event,
+      'messages' => array(
+
+
+        array (
+          'type' => 'flex',
+          'altText' => 'Flex Message',
+          'contents' => 
+          array (
+            'type' => 'bubble',
+            'direction' => 'ltr',
+            'header' => 
+            array (
+              'type' => 'box',
+              'layout' => 'vertical',
+              'contents' => 
+              array (
+                0 => 
+                array (
+                  'type' => 'text',
+                  'text' => '商用淨水器',
+                  'size' => 'lg',
+                  'align' => 'center',
+                  'weight' => 'bold',
+                  'color' => '#FFFFFF',
+                ),
+              ),
+            ),
+            'body' => 
+            array (
+              'type' => 'box',
+              'layout' => 'vertical',
+              'contents' => 
+              array (
+                0 => 
+                array (
+                  'type' => 'box',
+                  'layout' => 'horizontal',
+                  'contents' => 
+                  array (
+                    0 => 
+                    array (
+                      'type' => 'image',
+                      'url' => 'https://9000.com.tw/wp-content/uploads/2019/10/UR-1801JG-1-600x600.jpg',
+                      'margin' => 'none',
+                      'align' => 'start',
+                      'size' => 'sm',
+                      'aspectRatio' => '1:1',
+                    ),
+                    1 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'vertical',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'text',
+                          'text' => 'UR-1801JG-1',
+                          'size' => 'xs',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'text',
+                          'text' => 'RO逆滲透純水機',
+                          'size' => 'sm',
+                          'wrap' => true,
+                        ),
+                      ),
+                    ),
+                    2 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'vertical',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'button',
+                          'action' => 
+                          array (
+                            'type' => 'uri',
+                            'label' => '詳情',
+                            'uri' => 'https://9000.com.tw/product/ur-1801jg-1-ro逆滲透純水機/',
+                          ),
+                          'margin' => 'none',
+                          'height' => 'sm',
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'styles' => 
+            array (
+              'header' => 
+              array (
+                'backgroundColor' => '#585D70',
+              ),
+            ),
+          ),
+        )
+        
+
+
+        
+
+      )
+  ));
+
+}
 
 
 ?>

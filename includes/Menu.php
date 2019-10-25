@@ -140,6 +140,24 @@ function getBUsinee($client,$event){
                             'color' => '#8BBDD4',
                             'style' => 'primary',
                           ),
+                          6 => 
+                          array (
+                            'type' => 'separator',
+                            'margin' => 'md',
+                          ),
+                          7 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'message',
+                              'label' => '商用淨水器',
+                              'text' => '您選擇「商用淨水器」',
+                            ),
+                            'color' => '#8BBDD4',
+                            'style' => 'primary',
+                          ),
+
                         ),
                       ),
                     ),

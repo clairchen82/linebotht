@@ -1921,7 +1921,7 @@ function getBusinessd($client,$event){
 
         array (
           'type' => 'flex',
-          'altText' => 'Flex Message',
+          'altText' => '已傳送給您「商用淨水器」的目錄',
           'contents' => 
           array (
             'type' => 'bubble',

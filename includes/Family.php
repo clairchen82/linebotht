@@ -13,6 +13,9 @@ switch ($message['text']){
           break;
     case '您選擇「全戶式淨水系統」':
           echo getHomed($client,$event['replyToken']);
+          break;
+    case '您選擇「殺菌器」':
+          echo getHomee($client,$event['replyToken']);
 
     default:
     #code
@@ -2423,7 +2426,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5902JW-1',
-                              'size' => 'xxs',
+                              'size' => 'xs',
                             ),
                             1 => 
                             array (
@@ -2620,6 +2623,130 @@ function getHomed($client,$event){
             ),
           ),
         )
+
+        // 殺菌器
+
+        function getHomee($client,$event){
+  $client->replyMessage(array(
+      'replyToken' => $event,
+      'messages' => array(
+
+
+        array (
+          'type' => 'flex',
+          'altText' => '已傳送給您「殺菌器」的目錄',
+          'contents' => 
+          array (
+            'type' => 'bubble',
+            'direction' => 'ltr',
+            'header' => 
+            array (
+              'type' => 'box',
+              'layout' => 'vertical',
+              'contents' => 
+              array (
+                0 => 
+                array (
+                  'type' => 'text',
+                  'text' => '殺菌器',
+                  'size' => 'md',
+                  'align' => 'center',
+                  'weight' => 'bold',
+                  'color' => '#FFFFFF',
+                ),
+              ),
+            ),
+            'body' => 
+            array (
+              'type' => 'box',
+              'layout' => 'vertical',
+              'contents' => 
+              array (
+                0 => 
+                array (
+                  'type' => 'box',
+                  'layout' => 'horizontal',
+                  'contents' => 
+                  array (
+                    0 => 
+                    array (
+                      'type' => 'image',
+                      'url' => 'https://9000.com.tw/wp-content/uploads/2020/08/UV-2200JS%E6%96%9C%E8%A7%92%E5%A3%81%E6%8E%9B%E6%9E%B6-%E5%90%88%E4%BD%B5-01-768x768.jpg',
+                      'margin' => 'none',
+                      'align' => 'start',
+                      'aspectRatio' => '1:1',
+                    ),
+                    1 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'vertical',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'spacer',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'text',
+                          'text' => 'UV-2200JS',
+                          'size' => 'xs',
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'text',
+                          'text' => 'UVC LED極效殺菌模組',
+                          'size' => 'sm',
+                          'wrap' => true,
+                        ),
+                      ),
+                    ),
+                    2 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'vertical',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'spacer',
+                          'size' => 'xxl',
+                        ),
+                        0 => 
+                        array (
+                          'type' => 'button',
+                          'action' => 
+                          array (
+                            'type' => 'uri',
+                            'label' => '詳情',
+                            'uri' => 'https://9000.com.tw/product/uv-2200js-uvc-led%e6%a5%b5%e6%95%88%e6%ae%ba%e8%8f%8c%e6%a8%a1%e7%b5%84/',
+                          ),
+                          'margin' => 'none',
+                          'height' => 'sm',
+                          ),
+                      ),
+                    ),
+                    3 => 
+                    array (
+                      'type' => 'spacer',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'styles' => 
+            array (
+              'header' => 
+              array (
+                'backgroundColor' => '#585D70',
+              ),
+            ),
+          ),
+        )
+
+
+
+        
 
 
 

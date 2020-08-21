@@ -13,9 +13,6 @@ switch ($message['text']){
           break;
     case '您選擇「全戶式淨水系統」':
           echo getHomed($client,$event['replyToken']);
-          break;
-    case '您選擇「殺菌器」':
-          echo getHomee($client,$event['replyToken']);
 
     default:
     #code
@@ -2426,7 +2423,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5902JW-1',
-                              'size' => 'xs',
+                              'size' => 'xxs',
                             ),
                             1 => 
                             array (
@@ -2624,9 +2621,7 @@ function getHomed($client,$event){
           ),
         )
 
-        // 殺菌器
-
-        function getHomee($client,$event){
+        function getHomed($client,$event){
   $client->replyMessage(array(
       'replyToken' => $event,
       'messages' => array(
@@ -2634,7 +2629,7 @@ function getHomed($client,$event){
 
         array (
           'type' => 'flex',
-          'altText' => '已傳送給您「殺菌器」的目錄',
+          'altText' => '已傳送給您「全戶式淨水系統」的目錄',
           'contents' => 
           array (
             'type' => 'bubble',
@@ -2648,7 +2643,7 @@ function getHomed($client,$event){
                 0 => 
                 array (
                   'type' => 'text',
-                  'text' => '殺菌器',
+                  'text' => '全戶式淨水系統',
                   'size' => 'md',
                   'align' => 'center',
                   'weight' => 'bold',
@@ -2671,7 +2666,7 @@ function getHomed($client,$event){
                     0 => 
                     array (
                       'type' => 'image',
-                      'url' => 'https://9000.com.tw/wp-content/uploads/2020/08/UV-2200JS%E6%96%9C%E8%A7%92%E5%A3%81%E6%8E%9B%E6%9E%B6-%E5%90%88%E4%BD%B5-01-768x768.jpg',
+                      'url' => 'https://9000.com.tw/wp-content/uploads/9999/09/9200SS.-1-600x600.jpg',
                       'margin' => 'none',
                       'align' => 'start',
                       'aspectRatio' => '1:1',
@@ -2689,13 +2684,13 @@ function getHomed($client,$event){
                         1 => 
                         array (
                           'type' => 'text',
-                          'text' => 'UV-2200JS',
+                          'text' => 'UP-9200SS',
                           'size' => 'xs',
                         ),
                         2 => 
                         array (
                           'type' => 'text',
-                          'text' => 'UVC LED極效殺菌模組',
+                          'text' => '全戶式不鏽鋼淨水器',
                           'size' => 'sm',
                           'wrap' => true,
                         ),
@@ -2719,11 +2714,22 @@ function getHomed($client,$event){
                           array (
                             'type' => 'uri',
                             'label' => '詳情',
-                            'uri' => 'https://9000.com.tw/product/uv-2200js-uvc-led%e6%a5%b5%e6%95%88%e6%ae%ba%e8%8f%8c%e6%a8%a1%e7%b5%84/',
+                            'uri' => 'https://9000.com.tw/product/up-9200ss/',
                           ),
                           'margin' => 'none',
                           'height' => 'sm',
                           ),
+                           1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                         array (
+                            'type' => 'uri',
+                            'label' => '實例',
+                            'uri' => 'https://imgur.com/a/pigiuld',
+                               ),
+                            'color' => '#707070',
+                        ),
                       ),
                     ),
                     3 => 
@@ -2743,7 +2749,6 @@ function getHomed($client,$event){
             ),
           ),
         )
-
 
 
         

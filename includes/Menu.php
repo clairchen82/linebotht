@@ -261,8 +261,8 @@ function getHome($client,$event){
                             'action' => 
                             array (
                               'type' => 'message',
-                              'label' => '電解水機',
-                              'text' => '您選擇「電解水機」',
+                              'label' => '殺菌器',
+                              'text' => '您選擇「殺菌器」',
                             ),
                             'color' => '#8BBDD4',
                             'style' => 'primary',
@@ -278,8 +278,8 @@ function getHome($client,$event){
                             'action' => 
                             array (
                               'type' => 'message',
-                              'label' => '家用飲水設備',
-                              'text' => '您選擇「家用飲水設備」',
+                              'label' => '電解水機',
+                              'text' => '您選擇「電解水機」',
                             ),
                             'color' => '#8BBDD4',
                             'style' => 'primary',
@@ -295,8 +295,8 @@ function getHome($client,$event){
                             'action' => 
                             array (
                               'type' => 'message',
-                              'label' => '家用淨水設備',
-                              'text' => '您選擇「家用淨水設備」',
+                              'label' => '家用飲水設備',
+                              'text' => '您選擇「家用飲水設備」',
                             ),
                             'color' => '#8BBDD4',
                             'style' => 'primary',
@@ -307,6 +307,23 @@ function getHome($client,$event){
                             'margin' => 'md',
                           ),
                           7 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'message',
+                              'label' => '家用淨水設備',
+                              'text' => '您選擇「家用淨水設備」',
+                            ),
+                            'color' => '#8BBDD4',
+                            'style' => 'primary',
+                          ),
+                          8 => 
+                          array (
+                            'type' => 'separator',
+                            'margin' => 'md',
+                          ),
+                          9 => 
                           array (
                             'type' => 'button',
                             'action' => 

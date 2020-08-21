@@ -1737,7 +1737,7 @@ function getHomec($client,$event){
                     ),
 
 
-
+//第二個
 
                   ),
                 ),
@@ -2151,7 +2151,7 @@ function getHomec($client,$event){
 
 
 
-
+//第三個
                   ),
                 ),
                 'styles' => 
@@ -2394,6 +2394,77 @@ function getHomec($client,$event){
                         ),
                       ),
                     ),
+                    //56 開始
+                    5 => 
+                    array (
+                      'type' => 'separator',
+                    ),
+                    6 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'horizontal',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'image',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2020/07/UR-5920JW-1-768x768.jpg',
+                          'margin' => 'none',
+                          'align' => 'start',
+                          'aspectRatio' => '1:1',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'UR-5902JW-1',
+                              'size' => 'xxs',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'text',
+                              'text' => '無桶式RO逆滲透淨水器',
+                              'size' => 'sm',
+                              'wrap' => true,
+                            ),
+                          ),
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/ur-5902jw-1-%E7%84%A1%E6%A1%B6%E5%BC%8Fro%E9%80%86%E6%BB%B2%E9%80%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/',
+                              ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+
+//56結束
+
+
                     
                   ),
                 ),

@@ -2293,7 +2293,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5602JW-1',
-                              'size' => 'xxs',
+                              'size' => 'xs',
                             ),
                             1 => 
                             array (
@@ -2426,7 +2426,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5902JW-1',
-                              'size' => 'xxs',
+                              'size' => 'xs',
                             ),
                             1 => 
                             array (
@@ -2466,6 +2466,76 @@ function getHomec($client,$event){
                     ),
 
 //56結束
+                    //78 開始
+                    7 => 
+                    array (
+                      'type' => 'separator',
+                    ),
+                    8 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'horizontal',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'image',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/UV-5200JBK_01-768x768.jpg',
+                          'margin' => 'none',
+                          'align' => 'start',
+                          'aspectRatio' => '1:1',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'UV-5200JBK',
+                              'size' => 'xs',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'INSTA UVC LED超效殺菌淨水器',
+                              'size' => 'sm',
+                              'wrap' => true,
+                            ),
+                          ),
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/uv-5200jbk-insta-uvc-led%E8%B6%85%E6%95%88%E6%AE%BA%E8%8F%8C%E6%B7%A8%E6%B0%B4%E5%99%A8/',
+                              ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+
+//78結束
+
 
 
                     

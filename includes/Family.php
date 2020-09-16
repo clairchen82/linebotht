@@ -2293,7 +2293,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5602JW-1',
-                              'size' => 'xs',
+                              'size' => 'xxs',
                             ),
                             1 => 
                             array (
@@ -2426,7 +2426,7 @@ function getHomec($client,$event){
                             array (
                               'type' => 'text',
                               'text' => 'UR-5902JW-1',
-                              'size' => 'xs',
+                              'size' => 'xxs',
                             ),
                             1 => 
                             array (

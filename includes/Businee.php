@@ -196,8 +196,6 @@ function getBusinessa($client,$event){
                                   'label' => '詳情',
                                   'uri' => 'https://9000.com.tw/product/ur-9303-%E7%A8%8B%E6%8E%A7%E6%AE%BA%E8%8F%8C%E7%B4%94%E6%B0%B4%E9%A3%B2%E6%B0%B4%E6%A9%9F/',
                                 ),
-                                'margin' => 'none',
-                                'height' => 'sm',
                               ),
                             ),
                           ),
@@ -474,13 +472,13 @@ function getBusinessa($client,$event){
                               0 => 
                               array (
                                 'type' => 'text',
-                                'text' => 'UR-21000A',
+                                'text' => 'UW-9303',
                                 'size' => 'xs',
                               ),
                               1 => 
                               array (
                                 'type' => 'text',
-                                'text' => '冰溫熱程控殺菌純水飲水機',
+                                'text' => '程控殺菌飲水機',
                                 'size' => 'sm',
                                 'wrap' => true,
                               ),
@@ -504,21 +502,8 @@ function getBusinessa($client,$event){
                                 array (
                                   'type' => 'uri',
                                   'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/ur-21000a/',
+                                  'uri' => 'https://9000.com.tw/product/uw-9303-%e7%a8%8b%e6%8e%a7%e6%ae%ba%e8%8f%8c%e9%a3%b2%e6%b0%b4%e6%a9%9f/',
                                 ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/03u8ClZ',
-                                ),
-                                'color' => '#707070',
                               ),
                             ),
                           ),

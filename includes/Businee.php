@@ -336,6 +336,79 @@ function getBusinessa($client,$event){
                           ),
                         ),
                       ),
+//78
+                      7 => 
+                      array (
+                        'type' => 'separator',
+                      ),
+                      8 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'horizontal',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'image',
+                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/1302-1-600x600.jpg',
+                            'margin' => 'none',
+                            'align' => 'start',
+                            'aspectRatio' => '1:1',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'vertical',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'text',
+                                'text' => 'UN-1302AG-1',
+                                'size' => 'xs',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'text',
+                                'text' => '微電腦節能型飲水機',
+                                'size' => 'sm',
+                                'wrap' => true,
+                              ),
+                            ),
+                          ),
+                          2 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'vertical',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'spacer',
+                                'size' => 'xxl',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'button',
+                                'action' => 
+                                array (
+                                  'type' => 'uri',
+                                  'label' => '詳情',
+                                  'uri' => 'https://9000.com.tw/product/un-1302ag-1/',
+                                ),
+                                'margin' => 'none',
+                                'height' => 'sm',
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+
+
+
+
+
+
                     ),
                   ),
                   'styles' => 

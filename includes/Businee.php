@@ -31,7 +31,7 @@ function getBusinessa($client,$event){
 
           array (
             'type' => 'flex',
-            'altText' => '已傳送給您「商用飲水設備」的目錄',
+            'altText' => 'Flex Message',
             'contents' => 
             array (
               'type' => 'carousel',
@@ -316,72 +316,6 @@ function getBusinessa($client,$event){
                                   'type' => 'uri',
                                   'label' => '詳情',
                                   'uri' => 'https://9000.com.tw/product/uw-998/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      7 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      8 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/11000.999.998-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-999',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '冰溫熱程控殺菌純水飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-999/',
                                 ),
                                 'margin' => 'none',
                                 'height' => 'sm',
@@ -1022,6 +956,17 @@ function getBusinessa($client,$event){
               ),
             ),
           )
+
+
+
+
+
+
+
+
+
+
+
 
 
       )

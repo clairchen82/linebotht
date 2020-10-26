@@ -34,935 +34,364 @@ function getBusinessa($client,$event){
             'altText' => 'Flex Message',
             'contents' => 
             array (
-              'type' => 'carousel',
-              'contents' => 
+              'type' => 'bubble',
+              'direction' => 'ltr',
+              'header' => 
               array (
-                0 => 
+                'type' => 'box',
+                'layout' => 'vertical',
+                'contents' => 
                 array (
-                  'type' => 'bubble',
-                  'direction' => 'ltr',
-                  'header' => 
+                  0 => 
                   array (
-                    'type' => 'box',
-                    'layout' => 'vertical',
-                    'contents' => 
-                    array (
-                      0 => 
-                      array (
-                        'type' => 'text',
-                        'text' => '商用飲水設備',
-                        'size' => 'lg',
-                        'align' => 'center',
-                        'weight' => 'bold',
-                        'color' => '#FFFFFF',
-                      ),
-                    ),
-                  ),
-                  'body' => 
-                  array (
-                    'type' => 'box',
-                    'layout' => 'vertical',
-                    'contents' => 
-                    array (
-                      0 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UR-8203AG-1_置中_01-768x768.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UR-8203AG-1',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '程控智能除菌飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/ur-8203ag-1-程控智能除菌飲水機/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      1 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      2 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UW-9303AG_置中-768x768.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UR-9303',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '程控殺菌純水飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/ur-9303-程控殺菌純水飲水機/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      3 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      4 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UW-9303AG_置中-768x768.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-9303',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '程控殺菌飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-9303-程控殺菌飲水機/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      5 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      6 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/11000.999.998-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-998',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '冰溫熱程控殺菌飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-998/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ),
-                  ),
-                  'styles' => 
-                  array (
-                    'header' => 
-                    array (
-                      'backgroundColor' => '#585D70',
-                    ),
+                    'type' => 'text',
+                    'text' => '商用飲水設備',
+                    'size' => 'lg',
+                    'align' => 'center',
+                    'weight' => 'bold',
+                    'color' => '#FFFFFF',
                   ),
                 ),
-                1 => 
+              ),
+              'body' => 
+              array (
+                'type' => 'box',
+                'layout' => 'vertical',
+                'contents' => 
                 array (
-                  'type' => 'bubble',
-                  'direction' => 'ltr',
-                  'header' => 
+                  0 => 
                   array (
                     'type' => 'box',
-                    'layout' => 'vertical',
+                    'layout' => 'horizontal',
                     'contents' => 
                     array (
                       0 => 
                       array (
-                        'type' => 'text',
-                        'text' => '商用飲水設備',
-                        'size' => 'lg',
-                        'align' => 'center',
-                        'weight' => 'bold',
-                        'color' => '#FFFFFF',
+                        'type' => 'image',
+                        'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UR-8203AG-1_置中_01-768x768.jpg',
+                        'margin' => 'none',
+                        'align' => 'start',
+                        'aspectRatio' => '1:1',
                       ),
-                    ),
-                  ),
-                  'body' => 
-                  array (
-                    'type' => 'box',
-                    'layout' => 'vertical',
-                    'contents' => 
-                    array (
-                      0 => 
+                      1 => 
                       array (
                         'type' => 'box',
-                        'layout' => 'horizontal',
+                        'layout' => 'vertical',
                         'contents' => 
                         array (
                           0 => 
                           array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UN-9505-1-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
+                            'type' => 'text',
+                            'text' => 'UR-8203AG-1',
+                            'size' => 'xs',
                           ),
                           1 => 
                           array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UN-9505BG',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '賀眾牌智慧節能飲水機系列',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/un-9505bg/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/3awxurV',
-                                ),
-                                'color' => '#999999',
-                              ),
-                            ),
+                            'type' => 'text',
+                            'text' => '程控智能除菌飲水機',
+                            'size' => 'sm',
+                            'wrap' => true,
                           ),
                         ),
-                      ),
-                      1 => 
-                      array (
-                        'type' => 'separator',
                       ),
                       2 => 
                       array (
                         'type' => 'box',
-                        'layout' => 'horizontal',
+                        'layout' => 'vertical',
                         'contents' => 
                         array (
                           0 => 
                           array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UN-9505-1-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
+                            'type' => 'spacer',
+                            'size' => 'xxl',
                           ),
                           1 => 
                           array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
+                            'type' => 'button',
+                            'action' => 
                             array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UN-9505AG',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '賀眾牌智慧節能飲水機系列',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
+                              'type' => 'uri',
+                              'label' => '詳情',
+                              'uri' => 'https://9000.com.tw/product/ur-8203ag-1-程控智能除菌飲水機/',
                             ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/un-9505ag/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/3awxurV',
-                                ),
-                                'color' => '#999999',
-                                'style' => 'link',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      3 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      4 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/10000B-768x768.jpg',
                             'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-11000B',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '溫熱程控殺菌飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-11000b/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/lUUBRZc',
-                                ),
-                                'color' => '#999999',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      5 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      6 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/10000B-768x768.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UR-11000B',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '溫熱程控殺菌純水飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/ur-11000b/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '實例',
-                                  'uri' => 'https://imgur.com/a/lUUBRZc',
-                                ),
-                                'color' => '#999999',
-                              ),
-                            ),
+                            'height' => 'sm',
                           ),
                         ),
                       ),
                     ),
                   ),
-                  'styles' => 
+                  1 => 
                   array (
-                    'header' => 
-                    array (
-                      'backgroundColor' => '#585D70',
-                    ),
+                    'type' => 'separator',
                   ),
-                ),
-                2 => 
-                array (
-                  'type' => 'bubble',
-                  'direction' => 'ltr',
-                  'header' => 
+                  2 => 
                   array (
                     'type' => 'box',
-                    'layout' => 'vertical',
+                    'layout' => 'horizontal',
                     'contents' => 
                     array (
                       0 => 
                       array (
-                        'type' => 'text',
-                        'text' => '商用飲水設備',
-                        'size' => 'lg',
-                        'align' => 'center',
-                        'weight' => 'bold',
-                        'color' => '#FFFFFF',
-                      ),
-                    ),
-                  ),
-                  'body' => 
-                  array (
-                    'type' => 'box',
-                    'layout' => 'vertical',
-                    'contents' => 
-                    array (
-                      0 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UW-2302DW-2-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-2302DW-2',
-                                'size' => 'xxs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '廚下型冰熱飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-2302dw-2/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
+                        'type' => 'image',
+                        'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UW-9303AG_置中-768x768.jpg',
+                        'margin' => 'none',
+                        'align' => 'start',
+                        'aspectRatio' => '1:1',
                       ),
                       1 => 
                       array (
-                        'type' => 'separator',
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => 'UR-9303',
+                            'size' => 'xs',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '程控殺菌純水飲水機',
+                            'size' => 'sm',
+                            'wrap' => true,
+                          ),
+                        ),
                       ),
                       2 => 
                       array (
                         'type' => 'box',
-                        'layout' => 'horizontal',
+                        'layout' => 'vertical',
                         'contents' => 
                         array (
                           0 => 
                           array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UW-3201EW-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
+                            'type' => 'spacer',
+                            'size' => 'xxl',
                           ),
                           1 => 
                           array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
+                            'type' => 'button',
+                            'action' => 
                             array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-3201EW',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '新一代 冷熱鉤管式飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
+                              'type' => 'uri',
+                              'label' => '詳情',
+                              'uri' => 'https://9000.com.tw/product/ur-9303-程控殺菌純水飲水機/',
                             ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-3201ew/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      3 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      4 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UW-6201DW-600x600.jpg',
                             'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UW-6201DW',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '新一代 冰熱鉤管式飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-6201dw/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                      5 => 
-                      array (
-                        'type' => 'separator',
-                      ),
-                      6 => 
-                      array (
-                        'type' => 'box',
-                        'layout' => 'horizontal',
-                        'contents' => 
-                        array (
-                          0 => 
-                          array (
-                            'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/1302-1-600x600.jpg',
-                            'margin' => 'none',
-                            'align' => 'start',
-                            'aspectRatio' => '1:1',
-                          ),
-                          1 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'text',
-                                'text' => 'UN-1302AG-1',
-                                'size' => 'xs',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'text',
-                                'text' => '微電腦節能型飲水機',
-                                'size' => 'sm',
-                                'wrap' => true,
-                              ),
-                            ),
-                          ),
-                          2 => 
-                          array (
-                            'type' => 'box',
-                            'layout' => 'vertical',
-                            'contents' => 
-                            array (
-                              0 => 
-                              array (
-                                'type' => 'spacer',
-                                'size' => 'xxl',
-                              ),
-                              1 => 
-                              array (
-                                'type' => 'button',
-                                'action' => 
-                                array (
-                                  'type' => 'uri',
-                                  'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/un-1302ag-1/',
-                                ),
-                                'margin' => 'none',
-                                'height' => 'sm',
-                              ),
-                            ),
+                            'height' => 'sm',
                           ),
                         ),
                       ),
                     ),
                   ),
-                  'styles' => 
+                  3 => 
                   array (
-                    'header' => 
+                    'type' => 'separator',
+                  ),
+                  4 => 
+                  array (
+                    'type' => 'box',
+                    'layout' => 'horizontal',
+                    'contents' => 
                     array (
-                      'backgroundColor' => '#585D70',
+                      0 => 
+                      array (
+                        'type' => 'image',
+                        'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UW-9303AG_置中-768x768.jpg',
+                        'margin' => 'none',
+                        'align' => 'start',
+                        'aspectRatio' => '1:1',
+                      ),
+                      1 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => 'UW-9303',
+                            'size' => 'xs',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '程控殺菌飲水機',
+                            'size' => 'sm',
+                            'wrap' => true,
+                          ),
+                        ),
+                      ),
+                      2 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'spacer',
+                            'size' => 'xxl',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'uri',
+                              'label' => '詳情',
+                              'uri' => 'https://9000.com.tw/product/uw-9303-程控殺菌飲水機/',
+                            ),
+                            'margin' => 'none',
+                            'height' => 'sm',
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                  5 => 
+                  array (
+                    'type' => 'separator',
+                  ),
+                  6 => 
+                  array (
+                    'type' => 'box',
+                    'layout' => 'horizontal',
+                    'contents' => 
+                    array (
+                      0 => 
+                      array (
+                        'type' => 'image',
+                        'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/11000.999.998-600x600.jpg',
+                        'margin' => 'none',
+                        'align' => 'start',
+                        'aspectRatio' => '1:1',
+                      ),
+                      1 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => 'UW-998',
+                            'size' => 'xs',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '冰溫熱程控殺菌飲水機',
+                            'size' => 'sm',
+                            'wrap' => true,
+                          ),
+                        ),
+                      ),
+                      2 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'spacer',
+                            'size' => 'xxl',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'uri',
+                              'label' => '詳情',
+                              'uri' => 'https://9000.com.tw/product/uw-998/',
+                            ),
+                            'margin' => 'none',
+                            'height' => 'sm',
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                  7 => 
+                  array (
+                    'type' => 'box',
+                    'layout' => 'horizontal',
+                    'contents' => 
+                    array (
+                      0 => 
+                      array (
+                        'type' => 'image',
+                        'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/11000.999.998-600x600.jpg',
+                        'margin' => 'none',
+                        'align' => 'start',
+                        'aspectRatio' => '1:1',
+                      ),
+                      1 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => 'UW-999',
+                            'size' => 'xs',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '冰溫熱程控殺菌純水飲水機',
+                            'size' => 'sm',
+                            'wrap' => true,
+                          ),
+                        ),
+                      ),
+                      2 => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'spacer',
+                            'size' => 'xxl',
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'button',
+                            'action' => 
+                            array (
+                              'type' => 'uri',
+                              'label' => '詳情',
+                              'uri' => 'https://9000.com.tw/product/uw-999/',
+                            ),
+                            'margin' => 'none',
+                            'height' => 'sm',
+                          ),
+                        ),
+                      ),
                     ),
                   ),
                 ),
               ),
+              'styles' => 
+              array (
+                'header' => 
+                array (
+                  'backgroundColor' => '#585D70',
+                ),
+              ),
             ),
           )
-
-
-
-
-
-
-
 
 
 

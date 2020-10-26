@@ -350,7 +350,7 @@ function getBusinessa($client,$event){
                           0 => 
                           array (
                             'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/1302-1-600x600.jpg',
+                            'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UR-8203AG-1_%E7%BD%AE%E4%B8%AD_01-768x768.jpg',
                             'margin' => 'none',
                             'align' => 'start',
                             'aspectRatio' => '1:1',
@@ -364,13 +364,13 @@ function getBusinessa($client,$event){
                               0 => 
                               array (
                                 'type' => 'text',
-                                'text' => 'UN-1302AG-1',
+                                'text' => 'UR-8203AG-1',
                                 'size' => 'xs',
                               ),
                               1 => 
                               array (
                                 'type' => 'text',
-                                'text' => '微電腦節能型飲水機',
+                                'text' => '程控智能除菌飲水機',
                                 'size' => 'sm',
                                 'wrap' => true,
                               ),
@@ -394,7 +394,7 @@ function getBusinessa($client,$event){
                                 array (
                                   'type' => 'uri',
                                   'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/un-1302ag-1/',
+                                  'uri' => 'https://9000.com.tw/product/ur-8203ag-1-%e7%a8%8b%e6%8e%a7%e6%99%ba%e8%83%bd%e9%99%a4%e8%8f%8c%e9%a3%b2%e6%b0%b4%e6%a9%9f/',
                                 ),
                                 'margin' => 'none',
                                 'height' => 'sm',

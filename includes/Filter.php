@@ -2892,21 +2892,6 @@ function getFiltera($client,$event){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                   ),
                 ),
               )
@@ -3239,7 +3224,7 @@ function getFilterb($client,$event){
                           0 => 
                           array (
                             'type' => 'text',
-                            'text' => '家用濾材配件',
+                            'text' => '商用濾材配件',
                             'size' => 'md',
                             'align' => 'center',
                             'weight' => 'bold',
@@ -4370,6 +4355,817 @@ function getFilterb($client,$event){
                         ),
                       ),
                     ),
+
+                    5 => //第六個
+                    array (
+                      'type' => 'bubble',
+                      'direction' => 'ltr',
+                      'header' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '商用濾材配件',
+                            'size' => 'md',
+                            'align' => 'center',
+                            'weight' => 'bold',
+                            'color' => '#FFFFFF',
+                          ),
+                        ),
+                      ),
+                      'body' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2019/10/UF-65P5-UF-65P1-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-65P5',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '5微米P.P.濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-65p5/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          2 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2019/10/UF-65GAC-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-65GAC',
+                                    'size' => 'xs',
+                                    'wrap' => true,
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '高吸附率顆粒椰殼活性碳濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-65gac/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          3 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          4 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/U-2547_%E7%BD%AE%E4%B8%AD-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'U-2547',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '20″前置濾筒組',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/u-2547/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          5 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          6 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-64.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'U-2548',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '10″後置濾筒組',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/u-2548/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                      'footer' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'horizontal',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'filler',
+                          ),
+                        ),
+                      ),
+                      'styles' => 
+                      array (
+                        'header' => 
+                        array (
+                          'backgroundColor' => '#585D70',
+                        ),
+                      ),
+                    ),
+
+                    6 => //第七個
+                    array (
+                      'type' => 'bubble',
+                      'direction' => 'ltr',
+                      'header' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '商用濾材配件',
+                            'size' => 'md',
+                            'align' => 'center',
+                            'weight' => 'bold',
+                            'color' => '#FFFFFF',
+                          ),
+                        ),
+                      ),
+                      'body' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/10/UF-54-1-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-54-1',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '逆滲透薄膜(100G)',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-54-1-%e9%80%86%e6%bb%b2%e9%80%8f%e8%96%84%e8%86%9c/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          2 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2021/02/UF-9801-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-9801',
+                                    'size' => 'xs',
+                                    'wrap' => true,
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '雙效抑菌濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-9801/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          3 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          4 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2021/02/UF-9801L-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-9801L',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '雙效抑菌除鉛濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-9801l/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          5 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          6 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2021/02/UF-9801P5-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-9801P5',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '5微米抑菌P.P纖維濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-9801p5/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                      'footer' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'horizontal',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'filler',
+                          ),
+                        ),
+                      ),
+                      'styles' => 
+                      array (
+                        'header' => 
+                        array (
+                          'backgroundColor' => '#585D70',
+                        ),
+                      ),
+                    ),
+
+                    7 => //第八個
+                    array (
+                      'type' => 'bubble',
+                      'direction' => 'ltr',
+                      'header' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '商用濾材配件',
+                            'size' => 'md',
+                            'align' => 'center',
+                            'weight' => 'bold',
+                            'color' => '#FFFFFF',
+                          ),
+                        ),
+                      ),
+                      'body' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/UF-9901_%E7%BD%AE%E4%B8%AD-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-9901',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '高效活性碳纖維濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-9901/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          2 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/UF-9901L_%E7%BD%AE%E4%B8%AD-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-9901L',
+                                    'size' => 'xs',
+                                    'wrap' => true,
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '高效除鉛活性碳纖維濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-9901l/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          3 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          4 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2019/10/UF-65P5-UF-65P1-800x800.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-65P1',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '1微米P.P.濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-65p1/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                
+                        ),
+                      ),
+                      'footer' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'horizontal',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'filler',
+                          ),
+                        ),
+                      ),
+                      'styles' => 
+                      array (
+                        'header' => 
+                        array (
+                          'backgroundColor' => '#585D70',
+                        ),
+                      ),
+                    ),
+
+
+
+
+
+
+
+
+
                   ),
                 ),
               )

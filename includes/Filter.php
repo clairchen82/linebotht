@@ -189,7 +189,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-1-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-1-1.jpg',
                               ),
                               1 => 
                               array (
@@ -414,7 +414,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-28.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-28-1.jpg',
                               ),
                               1 => 
                               array (
@@ -819,7 +819,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2019/03/UF-504JPEG-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-504-1.jpg',
                               ),
                               1 => 
                               array (
@@ -1330,7 +1330,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-555%E6%9C%89%E8%93%8B.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-555.jpg',
                               ),
                               1 => 
                               array (
@@ -1390,7 +1390,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-556.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-556-%E7%84%A1%E8%93%8B.jpg',
                               ),
                               1 => 
                               array (
@@ -1495,7 +1495,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-557.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-557-%E7%84%A1%E8%93%8B.jpg',
                               ),
                               1 => 
                               array (
@@ -1961,7 +1961,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-591%E6%9C%89%E8%93%8B-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-591.jpg',
                               ),
                               1 => 
                               array (
@@ -2127,7 +2127,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-592%E6%9C%89%E8%93%8B-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-592.jpg',
                               ),
                               1 => 
                               array (
@@ -2187,7 +2187,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-593%E6%9C%89%E8%93%8B-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-593.jpg',
                               ),
                               1 => 
                               array (
@@ -2247,7 +2247,7 @@ function getFiltera($client,$event){
                               0 => 
                               array (
                                 'type' => 'image',
-                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-594%E6%9C%89%E8%93%8B-600x600.jpg',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UF-594.jpg',
                               ),
                               1 => 
                               array (
@@ -2601,6 +2601,312 @@ function getFiltera($client,$event){
                         ),
                       ),
                     ),
+
+                    9 => 
+                    array (
+                      'type' => 'bubble',
+                      'direction' => 'ltr',
+                      'header' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'text',
+                            'text' => '家用濾材配件',
+                            'size' => 'md',
+                            'align' => 'center',
+                            'weight' => 'bold',
+                            'color' => '#FFFFFF',
+                          ),
+                        ),
+                      ),
+                      'body' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'vertical',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/MF-543CAS.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'MF-543CAS-2',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '奈米晶透美肌沐浴組[沐浴用]替換濾芯(兩支入)',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/mf-543cas-2%e5%a5%88%e7%b1%b3%e6%99%b6%e9%80%8f%e7%be%8e%e8%82%8c%e6%b2%90%e6%b5%b4%e7%b5%84%e6%b2%90%e6%b5%b4%e7%94%a8%e6%9b%bf%e6%8f%9b%e6%bf%be%e8%8a%af%e5%85%a9%e6%94%af%e5%85%a5/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          1 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          2 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/08/UF-571.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-571',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'P.P.+活性碳複合式濾芯',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-571p-p-%e6%b4%bb%e6%80%a7%e7%a2%b3%e8%a4%87%e5%90%88%e5%bc%8f%e6%bf%be%e8%8a%af/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          3 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          4 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/08/UF-572.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-572',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '後置顆粒活性碳',
+                                    'size' => 'sm',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-572%e5%be%8c%e7%bd%ae%e9%a1%86%e7%b2%92%e6%b4%bb%e6%80%a7%e7%a2%b3/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                          5 => 
+                          array (
+                            'type' => 'separator',
+                          ),
+                          6 => 
+                          array (
+                            'type' => 'box',
+                            'layout' => 'horizontal',
+                            'contents' => 
+                            array (
+                              0 => 
+                              array (
+                                'type' => 'image',
+                                'url' => 'https://9000.com.tw/wp-content/uploads/2020/08/UF-573.jpg',
+                              ),
+                              1 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => 'UF-573',
+                                    'size' => 'xs',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'text',
+                                    'text' => '400G逆滲透薄膜',
+                                    'size' => 'xs',
+                                    'wrap' => true,
+                                  ),
+                                ),
+                              ),
+                              2 => 
+                              array (
+                                'type' => 'box',
+                                'layout' => 'vertical',
+                                'contents' => 
+                                array (
+                                  0 => 
+                                  array (
+                                    'type' => 'spacer',
+                                  ),
+                                  1 => 
+                                  array (
+                                    'type' => 'button',
+                                    'action' => 
+                                    array (
+                                      'type' => 'uri',
+                                      'label' => '詳情',
+                                      'uri' => 'https://9000.com.tw/product/uf-573-400g%e9%80%86%e6%bb%b2%e9%80%8f%e8%96%84%e8%86%9c/',
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
+                      ),
+                      'footer' => 
+                      array (
+                        'type' => 'box',
+                        'layout' => 'horizontal',
+                        'contents' => 
+                        array (
+                          0 => 
+                          array (
+                            'type' => 'filler',
+                          ),
+                        ),
+                      ),
+                      'styles' => 
+                      array (
+                        'header' => 
+                        array (
+                          'backgroundColor' => '#585D70',
+                        ),
+                      ),
+                    ),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                   ),
                 ),
               )

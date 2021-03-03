@@ -281,7 +281,7 @@ switch ($message['text']){
                           1 => 
                           array (
                             'type' => 'text',
-                            'text' => '屏東市公園西路127號',
+                            'text' => '屏東市信義路213號',
                             'wrap' => true,
                           ),
                           2 => 
@@ -453,7 +453,7 @@ switch ($message['text']){
                           1 => 
                           array (
                             'type' => 'text',
-                            'text' => '苗栗市自治路383號',
+                            'text' => '苗栗市自治路420號',
                             'flex' => 0,
                             'margin' => 'none',
                             'size' => 'sm',

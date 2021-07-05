@@ -854,7 +854,7 @@ function getHomeb($client,$event){
                         0 => 
                         array (
                           'type' => 'image',
-                          'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/252-600x600.jpg',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2018/05/UW-252BW-1-600x600.jpg',
                         ),
                         1 => 
                         array (
@@ -1328,6 +1328,87 @@ function getHomeb($client,$event){
                     array (
                       'type' => 'separator',
                     ),
+                    4 => 
+                    array (
+                      'type' => 'box',
+                      'layout' => 'horizontal',
+                      'contents' => 
+                      array (
+                        0 => 
+                        array (
+                          'type' => 'image',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2021/06/UR-8103AW-1_%E7%BD%AE%E4%B8%AD-600x600.jpg',
+                          'margin' => 'none',
+                          'align' => 'start',
+                          'aspectRatio' => '1:1',
+                        ),
+                        1 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'text',
+                              'text' => 'UR-8103AW-1',
+                              'size' => 'xs',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'text',
+                              'text' => '落地型冰溫熱程控智能除菌飲水機',
+                              'size' => 'sm',
+                              'wrap' => true,
+                            ),
+                          ),
+                        ),
+                        2 => 
+                        array (
+                          'type' => 'box',
+                          'layout' => 'vertical',
+                          'contents' => 
+                          array (
+                            0 => 
+                            array (
+                              'type' => 'spacer',
+                              'size' => 'xxl',
+                            ),
+                            1 => 
+                            array (
+                              'type' => 'button',
+                              'action' => 
+                              array (
+                                'type' => 'uri',
+                                'label' => '詳情',
+                                'uri' => 'https://9000.com.tw/product/ur-8103aw-1/',
+                              ),
+                              'margin' => 'none',
+                              'height' => 'sm',
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                    5 => 
+                    array (
+                      'type' => 'separator',
+                    ),
+
+
+
+
+
+
+                    
+
+
+
+
+
+
+
+
               
                     
                   ),

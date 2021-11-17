@@ -1491,7 +1491,7 @@ function getHomec($client,$event){
                         0 => 
                         array (
                           'type' => 'image',
-                          'url' => 'https://9000.com.tw/wp-content/uploads/2018/06/U-2026-600x600.jpg',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2021/07/UP-106_2-600x600.jpg',
                           'margin' => 'none',
                           'align' => 'start',
                           'aspectRatio' => '1:1',
@@ -1505,13 +1505,13 @@ function getHomec($client,$event){
                             0 => 
                             array (
                               'type' => 'text',
-                              'text' => 'U-2026',
+                              'text' => 'UP-106',
                               'size' => 'xs',
                             ),
                             1 => 
                             array (
                               'type' => 'text',
-                              'text' => '奈米除氯活水器 [沐浴用]',
+                              'text' => '雙效除鉛淨水器',
                               'size' => 'sm',
                               'wrap' => true,
                             ),
@@ -1535,7 +1535,7 @@ function getHomec($client,$event){
                               array (
                                 'type' => 'uri',
                                 'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/u-2026/',
+                                'uri' => 'https://9000.com.tw/product/up-106/',
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
@@ -1557,7 +1557,7 @@ function getHomec($client,$event){
                         0 => 
                         array (
                           'type' => 'image',
-                          'url' => 'https://9000.com.tw/wp-content/uploads/2018/06/U-2027-600x600.jpg',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2021/07/UP-206_1-600x600.jpg',
                           'margin' => 'none',
                           'align' => 'start',
                           'aspectRatio' => '1:1',
@@ -1571,13 +1571,13 @@ function getHomec($client,$event){
                             0 => 
                             array (
                               'type' => 'text',
-                              'text' => 'U-2027',
+                              'text' => 'UP-206',
                               'size' => 'xs',
                             ),
                             1 => 
                             array (
                               'type' => 'text',
-                              'text' => '奈米除氯活水器 [洗淨用]',
+                              'text' => '長效型除鉛淨水器',
                               'size' => 'sm',
                               'wrap' => true,
                             ),
@@ -1601,7 +1601,7 @@ function getHomec($client,$event){
                               array (
                                 'type' => 'uri',
                                 'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/u-2027/',
+                                'uri' => 'https://9000.com.tw/product/up-206/',
                               ),
                               'margin' => 'none',
                               'height' => 'sm',
@@ -2359,7 +2359,7 @@ function getHomec($client,$event){
                         0 => 
                         array (
                           'type' => 'image',
-                          'url' => 'https://9000.com.tw/wp-content/uploads/2018/06/UR-5602JW-1-600x600.jpg',
+                          'url' => 'https://9000.com.tw/wp-content/uploads/2020/09/UP-26-600x600.jpg',
                           'margin' => 'none',
                           'align' => 'start',
                           'aspectRatio' => '1:1',
@@ -2373,13 +2373,13 @@ function getHomec($client,$event){
                             0 => 
                             array (
                               'type' => 'text',
-                              'text' => 'UR-5602JW-1',
+                              'text' => 'UP-26',
                               'size' => 'xxs',
                             ),
                             1 => 
                             array (
                               'type' => 'text',
-                              'text' => '廚下型LED龍頭磁化淨水器',
+                              'text' => '奈米晶透美肌沐浴組 [沐浴用]',
                               'size' => 'sm',
                               'wrap' => true,
                             ),
@@ -2403,7 +2403,7 @@ function getHomec($client,$event){
                               array (
                                 'type' => 'uri',
                                 'label' => '詳情',
-                                'uri' => 'https://9000.com.tw/product/ur-5602jw-1/',
+                                'uri' => 'https://9000.com.tw/product/up-26/',
                               ),
                               'margin' => 'none',
                               'height' => 'sm',

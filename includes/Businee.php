@@ -909,7 +909,7 @@ function getBusinessa($client,$event){
                           0 => 
                           array (
                             'type' => 'image',
-                            'url' => 'https://9000.com.tw/wp-content/uploads/2017/11/UW-6201DW-600x600.jpg',
+                            'url' => 'https://9000.com.tw/wp-content/uploads/2022/01/UW-6001-600x600.jpg',
                             'margin' => 'none',
                             'align' => 'start',
                             'aspectRatio' => '1:1',
@@ -923,13 +923,13 @@ function getBusinessa($client,$event){
                               0 => 
                               array (
                                 'type' => 'text',
-                                'text' => 'UW-6201DW',
+                                'text' => 'UW-6001DS-1',
                                 'size' => 'xs',
                               ),
                               1 => 
                               array (
                                 'type' => 'text',
-                                'text' => '新一代 冰熱鉤管式飲水機',
+                                'text' => '鉤管式立地飲水機',
                                 'size' => 'sm',
                                 'wrap' => true,
                               ),
@@ -953,7 +953,7 @@ function getBusinessa($client,$event){
                                 array (
                                   'type' => 'uri',
                                   'label' => '詳情',
-                                  'uri' => 'https://9000.com.tw/product/uw-6201dw/',
+                                  'uri' => 'https://9000.com.tw/product/uw-6201ds-1/',
                                 ),
                                 'margin' => 'none',
                                 'height' => 'sm',

@@ -1757,71 +1757,6 @@ function getBusinessc($client,$event){
                     0 => 
                     array (
                       'type' => 'image',
-                      'url' => 'https://9000.com.tw/wp-content/uploads/2018/09/UC-081-600x600.jpg',
-                    ),
-                    1 => 
-                    array (
-                      'type' => 'box',
-                      'layout' => 'vertical',
-                      'contents' => 
-                      array (
-                        0 => 
-                        array (
-                          'type' => 'spacer',
-                        ),
-                        1 => 
-                        array (
-                          'type' => 'text',
-                          'text' => 'UC-081AW-1',
-                          'size' => 'xs',
-                        ),
-                        2 => 
-                        array (
-                          'type' => 'text',
-                          'text' => '直立式冰冷熱瓶裝機',
-                          'size' => 'sm',
-                          'wrap' => true,
-                        ),
-                      ),
-                    ),
-                    2 => 
-                    array (
-                      'type' => 'box',
-                      'layout' => 'vertical',
-                      'contents' => 
-                      array (
-                        0 => 
-                        array (
-                          'type' => 'spacer',
-                          'size' => 'lg',
-                        ),
-                        1 => 
-                        array (
-                          'type' => 'button',
-                          'action' => 
-                          array (
-                            'type' => 'uri',
-                            'label' => '詳情',
-                            'uri' => 'https://9000.com.tw/product/uc-081aw-1/',
-                          ),
-                        ),
-                      ),
-                    ),
-                  ),
-                ),
-                5 => 
-                array (
-                  'type' => 'separator',
-                ),
-                6 => 
-                array (
-                  'type' => 'box',
-                  'layout' => 'horizontal',
-                  'contents' => 
-                  array (
-                    0 => 
-                    array (
-                      'type' => 'image',
                       'url' => 'https://9000.com.tw/wp-content/uploads/2018/06/UC-082NBK-11-600x600.jpg',
                     ),
                     1 => 
@@ -1874,11 +1809,11 @@ function getBusinessc($client,$event){
                     ),
                   ),
                 ),
-                7 => 
+                5 => 
                 array (
                   'type' => 'separator',
                 ),
-                8 => 
+                6 => 
                 array (
                   'type' => 'box',
                   'layout' => 'horizontal',
